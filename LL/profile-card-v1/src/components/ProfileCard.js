@@ -49,7 +49,7 @@ const Skill = styled.span`
 const ProfileCard = () => {
     return (
         <Card>
-            <Image src={profileImage} alt="Profile" /> {/* Use the imported image */}
+            <Image src={profileImage} alt="Profile" />
             <ProfileContent>
                 <Name>Luka Lortkipanidze</Name>
                 <Bio>
